@@ -1,0 +1,12 @@
+.mySladaah {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+.mySladaah img {
+  max-width: 50%;
+  max-height: 50%;
+}
+.mySladaah button {
+  background-color: rgb(9, 56, 145);
+}
